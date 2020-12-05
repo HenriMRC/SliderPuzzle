@@ -1,0 +1,18 @@
+{
+    "name": "ApplicationFSM",
+    "references": [
+        "GUID:80be4c1564e6a564cb178eac28a4233f",
+        "GUID:53ddafd3bfbda2e4584950450d8ef9a7",
+        "GUID:eb76a571bd23dc64fb627599f5372205",
+        "GUID:8e55d38b9fef21a49972b2e962d1904f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
